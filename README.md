@@ -1,2 +1,2 @@
 # pleasantware
-- cilgin client
+- testler bitene kadar 
